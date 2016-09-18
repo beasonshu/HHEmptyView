@@ -60,4 +60,4 @@ android 网络加载提示进度封装View。包含加载中、加载失败、�
         <attr name="hh_empty_button_txt" format="string|reference"/>
     </declare-styleable>
 ```
-
+详细使用见代码！！！
