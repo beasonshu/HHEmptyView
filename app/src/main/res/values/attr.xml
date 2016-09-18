@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HHEmptyView">
+        <attr name="hh_empty_warn_txt" format="string|reference"/>
+        <attr name="hh_empty_loading_txt" format="string|reference"/>
+        <attr name="hh_empty_button_txt" format="string|reference"/>
+    </declare-styleable>
+</resources>
